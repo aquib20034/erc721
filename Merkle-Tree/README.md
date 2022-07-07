@@ -3,9 +3,9 @@ A Merkle tree is a data structure that is used in computer science applications.
 
 They are also referred to as "binary hash trees."
 
-# run script contract
+# run script 
 ```console
-$ node index.js
+ node index.js
 ```
 
 # Learn More
