@@ -5,6 +5,7 @@ It is ERC721, Pausable and Ownable smart contact based on openzepplin (A library
 * Active/inactive revealation of the token appearance
 * setting of merkle root for whitelisting
 * setting of base uri
+* Max Per Wallet Minting Option
 
 # Installation
 run the following command to install all the necessary modules
