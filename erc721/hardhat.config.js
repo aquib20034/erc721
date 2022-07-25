@@ -23,7 +23,7 @@ const ETHERSCAN_API_KEY         = process.env.ETHERSCAN_API_KEY;
   }
 } 
 
-*/
+
 ////////// Configuration of the contract on Rinkeby/ Mainnet //////////
 
 module.exports = {
@@ -43,9 +43,9 @@ module.exports = {
     apiKey: ETHERSCAN_API_KEY
   }
 } 
-
+*/
 ////////// Configuration of the contract on hardhat local network for unit testing //////////
-/*
+
 module.exports = {
    solidity: "0.8.4",
    defaultNetwork: "hardhat",
@@ -55,5 +55,5 @@ module.exports = {
    mocha: {
      timeout: 400000000
    }
-}*/
+}
 
